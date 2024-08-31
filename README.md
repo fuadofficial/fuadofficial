@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/ahmad fuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad fuad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/fuad k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fuad k" height="30" width="40" /></a>
 <a href="https://fb.com/ahmad fuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad fuad" height="30" width="40" /></a>
-<a href="https://instagram.com/fuad____k_" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://www.instagram.com/fuad_____k_/)" alt="fuad____k_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fuad_____k_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuad____k_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
